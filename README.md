@@ -10,7 +10,7 @@ Using four Classifier -
 
 [Presentation file for this project](181002033.pptx)
 
-[Basic report for this project](181002033_Lab_Project_report.pdf)
+[Basic report for this project](181002033_Lab_Project_report .pdf)
 
 [Fake news csv file](Fake.csv)
 
