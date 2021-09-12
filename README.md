@@ -1,5 +1,5 @@
 # fake_news_detection
-![](banner.jpg)
+![](banner.png)
 Using four Classifier - 
 * Random forest classifier
 * Gradient boosting classifier
